@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laravel/vue-starter-kit',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '5e90ca513a010feb0cba072afc799512d6c877af',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -518,9 +518,9 @@
             'dev_requirement' => false,
         ),
         'laravel/vue-starter-kit' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '5e90ca513a010feb0cba072afc799512d6c877af',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
